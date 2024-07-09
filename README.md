@@ -49,6 +49,8 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | Krems an der Donau        | DRW      |                   |
 | Wien                      | DRW      |                   |
 
+2. Variante 2 über den Main-Donau-Kanal
+
 ### Weblinks
 
 - [D-Route](https://de.wikipedia.org/wiki/D-Route)
