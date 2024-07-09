@@ -17,6 +17,8 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | D9      | Romantische Straße | Wertheim   | Donauwörth | [Romantische Straße](https://de.wikipedia.org/wiki/Romantische_Straße)          |  
 | D6      | Donauradweg        | Donauwörth | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
+### GPS-Track
+[GPS Track](2024-radtour-wien.gpx)
 
 ### Roadbook
 
