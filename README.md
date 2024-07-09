@@ -76,7 +76,7 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | Offenbach                 | D5       |                   |
 | Aschaffenburg             | D5       |                   |
 | Miltenberg                | D5       |                   |
-| Wertheim                  | D5       | Wechsel auf D9    |
+| Wertheim                  | D5 (D9)  | Wechsel auf D9    |
 | Tauberbischofsheim        | D9       |                   | 
 | Rothenburg ob der Tauber  | D9       |                   |
 | Feuchtwangen              | D9       |                   |
