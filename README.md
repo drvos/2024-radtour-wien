@@ -3,6 +3,8 @@
 
 Notizen und Planung für die Radtour Frankfurt -> Wien
 
+1. Variante über den Radweg "Romatische Straße"
+
 ## Daten
 
 - Entfernung: 985 km
