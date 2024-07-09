@@ -3,6 +3,13 @@
 
 Notizen und Planung für die Radtour Frankfurt -> Wien
 
+## Route
+
+| D-Route | Radweg             | von        | bis        | Link                                                                            |
+|:--------|:-------------------|:-----------|:-----------|:--------------------------------------------------------------------------------|
+| D5      | Main-Radweg        | Frankfurt  | Wertheim   | [Main-Radweg](https://de.wikipedia.org/wiki/Main-Radweg)                        |
+| D9      | Romantische Straße | Wertheim   | Donauwörth | [Romantische Straße](https://de.wikipedia.org/wiki/Romantische_Straße)          |  
+| D6      | Donauradweg        | Donauwörth | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
 ### Weblinks
 
