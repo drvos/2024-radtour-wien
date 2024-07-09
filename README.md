@@ -18,7 +18,7 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | D6      | Donauradweg        | Donauwörth | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
 ### GPS-Track
-[GPS Track](2024-radtour-wien.gpx)
+[Frankfurt -> Wien (985 km)](2024-radtour-wien.gpx)
 
 ### Roadbook
 
