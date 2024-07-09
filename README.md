@@ -3,10 +3,10 @@
 
 Notizen und Planung für die Radtour Frankfurt -> Wien
 
-1. [Variante 1 über den Main-Donau-Kanal](# Variante über den Main-Donau-Kanal)
-2. [Variante über den Radweg "Romantische Straße"](# Variante über den Radweg "Romatische Straße")
+1. [Variante über den Main-Donau-Kanal](#Variante über den Main-Donau-Kanal)
+2. [Variante über den Radweg Romantische Straße](#Variante über den Radweg Romantische Straße)
 
-## Variante über den Radweg "Romatische Straße"
+## Variante über den Radweg Romatische Straße
 
 ### Daten
 
