@@ -101,4 +101,5 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 - [D-Route](https://de.wikipedia.org/wiki/D-Route)
 - [Wikipedia: Main-Radweg D5](https://de.wikipedia.org/wiki/Main-Radweg)
 - [Wikipedia: Romantische Straße D9](https://de.wikipedia.org/wiki/Romantische_Straße)
+- [Wikipedia: Main-Donau-Kanal](https://de.wikipedia.org/wiki/Main-Donau-Kanal)
 - [Wikipedia: Donauradweg D6](https://de.wikipedia.org/wiki/Donauradweg_(D6))
