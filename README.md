@@ -1,3 +1,4 @@
+[modeline]: # ( vim: set fenc=utf-8 filetype=markdown ts=3 sts=3 sw=3 expandtab: )
 # 2024 Radtour Frankfurt/Main -> Wien
 
 Notizen und Planung für die Radtour Frankfurt -> Wien
