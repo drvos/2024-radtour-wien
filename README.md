@@ -11,6 +11,11 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | D9      | Romantische Straße | Wertheim   | Donauwörth | [Romantische Straße](https://de.wikipedia.org/wiki/Romantische_Straße)          |  
 | D6      | Donauradweg        | Donauwörth | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
+### Daten
+
+- Entfernung: 985 km
+- Anstieg: 2.800 m
+- Reisezeit: 45 h
 ## Roadbook
 
 | Ort                       | D-Route  | Hinweis           |
