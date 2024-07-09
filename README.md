@@ -40,6 +40,7 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 
 ### Weblinks
 
+- [D-Route](https://de.wikipedia.org/wiki/D-Route)
 - [Wikipedia: Main-Radweg D5](https://de.wikipedia.org/wiki/Main-Radweg)
-- [Mainradweg](https://www.mainradweg.com)
+- [Wikipedia: Romantische Straße D9](https://de.wikipedia.org/wiki/Romantische_Straße)
 - [Wikipedia: Donauradweg D6](https://de.wikipedia.org/wiki/Donauradweg_(D6))
