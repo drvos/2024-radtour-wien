@@ -33,9 +33,10 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 
 ### Daten
 
-- Entfernung: 
-- Anstieg: 
-- Reisezeit:
+- Entfernung: 1.050 km
+- Anstieg: 2.500 m
+- Reisezeit: 50 h
+
 #### Höhenprofil
 
 ![Höhe](variante_02/hoehenprofil.png)
