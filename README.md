@@ -32,6 +32,7 @@ Zwischen Main und Donau auf dem Radweg "Romantische Straße".
 [Roadbook](variante_01/Roadbook.md)
 
 ## <a name="variante_2" />Variante über den Main-Donau-Kanal
+Es geht zwischen Main und Donau am Main-Donau-Kanal, an der Pegnitz und an der Altmühl entlang. 
 
 ### Daten
 
@@ -48,6 +49,8 @@ Zwischen Main und Donau auf dem Radweg "Romantische Straße".
 | D-Route | Radweg             | von        | bis        | Link                                                                            |
 |:--------|:-------------------|:-----------|:-----------|:--------------------------------------------------------------------------------|
 | D5      | Main-Radweg        | Frankfurt  | Bamberg    | [Main-Radweg](https://de.wikipedia.org/wiki/Main-Radweg)                        |
+| D9      | Romantische Straße | Bettingen  | Würzburg   | [Romantische Straße](https://de.wikipedia.org/wiki/Romantische_Straße)          |
+| D5      | Main-Radweg        | Würzburg   | Bamberg    | [Main-Radweg](https://de.wikipedia.org/wiki/Main-Radweg)                        |
 |         | Main-Donau-Kanal   | Bamberg    | Kelheim    | [Main-Donau-Kanal](https://de.wikipedia.org/wiki/Main-Donau-Kanal)              |
 | D6      | Donauradweg        | Kelheim    | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
