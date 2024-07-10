@@ -42,29 +42,6 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 |         | Main-Donau-Kanal   | Bamberg    | Kelheim    | [Main-Donau-Kanal](https://de.wikipedia.org/wiki/Main-Donau-Kanal)              |
 | D6      | Donauradweg        | Kelheim    | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
-#### GPS-Track
-[Frankfurt -> Wien (985 km)](2024-radtour-wien_02.gpx)
-
-#### Roadbook
-
-| Ort                       | D-Route  | Hinweis           |
-|:--------------------------|:--------:|:------------------|
-| Frankfurt, Friedensbrücke | D5       |                   | 
-| Offenbach                 | D5       |                   |
-| Aschaffenburg             | D5       |                   |
-| Miltenberg                | D5       |                   |
-| Wertheim                  | D5       |                   |
-|  ...                      |          |                   |
-| Neustadt an der Donau     | D6       |                   | 
-| Regensburg                | D6       |                   |
-| Wörth an der Donau        | D6       |                   |
-| Straubing                 | D6       |                   |
-| Passau                    | D6 (R1)  |                   |
-| Obernzell                 | R1       | Landesgrenze      |
-| Linz                      | DRW (R1) |                   | 
-| Ybbs an der Donau         | DRW      |                   |
-| Krems an der Donau        | DRW      |                   |
-| Wien                      | DRW      |                   |
 
 
 ## Weblinks
