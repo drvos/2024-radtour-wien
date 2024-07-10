@@ -22,8 +22,8 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | D9      | Romantische Straße | Wertheim   | Donauwörth | [Romantische Straße](https://de.wikipedia.org/wiki/Romantische_Straße)          |  
 | D6      | Donauradweg        | Donauwörth | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
-#### Daten
-[Route](variante_01/route_01.gpx)
+[GPX-Track](variante_01/route_01.gpx)
+
 [Roadbook](variante_01/Roadbook.md)
 
 ## <a name="variante_2" />Variante über den Main-Donau-Kanal
@@ -42,7 +42,9 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 |         | Main-Donau-Kanal   | Bamberg    | Kelheim    | [Main-Donau-Kanal](https://de.wikipedia.org/wiki/Main-Donau-Kanal)              |
 | D6      | Donauradweg        | Kelheim    | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
+[GPX-Track](variante_02/route_02.gpx)
 
+[Roadbook](variante_02/Roadbook.md)
 
 ## Weblinks
 
