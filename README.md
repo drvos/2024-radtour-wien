@@ -22,10 +22,8 @@ Notizen und Planung für die Radtour Frankfurt -> Wien
 | D9      | Romantische Straße | Wertheim   | Donauwörth | [Romantische Straße](https://de.wikipedia.org/wiki/Romantische_Straße)          |  
 | D6      | Donauradweg        | Donauwörth | Wien       | [Donauradweg](https://de.wikipedia.org/wiki/Donauradweg_(D6))                   |
 
-#### GPS-Track
-[Route: Frankfurt -> Wien (985 km)](variante_01/route_01.gpx)
-
-#### Roadbook
+#### Daten
+[Route](variante_01/route_01.gpx)
 [Roadbook](variante_01/Roadbook.md)
 
 ## <a name="variante_2" />Variante über den Main-Donau-Kanal

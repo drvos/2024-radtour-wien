@@ -1,4 +1,4 @@
-# Roadbook Frankfurt -> Wien über Radweg "Romantische Straße"
+# Roadbook Frankfurt -> Wien über Main-Donau-Kanal
 
 | Ort                       | D-Route  | Hinweis           |
 |:--------------------------|:--------:|:------------------|
@@ -6,14 +6,8 @@
 | Offenbach                 | D5       |                   |
 | Aschaffenburg             | D5       |                   |
 | Miltenberg                | D5       |                   |
-| Wertheim                  | D5       | Wechsel auf D9    |
-| Tauberbischofsheim        | D9       |                   | 
-| Rothenburg ob der Tauber  | D9       |                   |
-| Feuchtwangen              | D9       |                   |
-| Nördlingen                | D9       |                   |
-| Donauwörth                | D9 (D6)  | Parallele Strecke |
-| Marxheim                  | D6 (D9)  | Wechsel auf D6    |
-| Ingolstadt                | D6       |                   |  
+| Wertheim                  | D5       |                   |
+|  ...                      |          |                   |
 | Neustadt an der Donau     | D6       |                   | 
 | Regensburg                | D6       |                   |
 | Wörth an der Donau        | D6       |                   |
@@ -24,4 +18,3 @@
 | Ybbs an der Donau         | DRW      |                   |
 | Krems an der Donau        | DRW      |                   |
 | Wien                      | DRW      |                   |
-
